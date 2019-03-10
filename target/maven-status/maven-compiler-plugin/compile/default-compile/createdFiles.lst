@@ -1,0 +1,4 @@
+pages\EdmodoAdminPage.class
+pages\EdmodoLoginPage.class
+testbase\SetUp.class
+pages\EdmodoHomePage.class
